@@ -1,5 +1,5 @@
 
-# A distributed management system for landslide prediction and classification based on WSNs and IPv6
+# A management system for landslide prediction and classification based on IoT, WSNs and IPv6, supports two languages (English / Chinese)
 
 The primary objective behind the development of this website is to create a comprehensive management tool and user interface. This platform aims to offer managers and decision-makers a more transparent view of the gathered data while addressing several key objectives, which can be summarized as follows:
 
@@ -22,7 +22,7 @@ h. Foster an interactive environment for discussions among researchers, users, a
 
 The project utilized a variety of tools and technologies to achieve its objectives. Python, in versions 3.7 and 2.7, played a pivotal role in both sending and analyzing data using the MQTT protocol, forming the backbone of the server-side operations. Raspbian served as the operating system for the Raspberry Pi 3, the hardware foundation of the project. The MQTT protocol facilitated the seamless transmission of sensor data to the database, which was managed by MySQL version 5.7.28. The Apache server, version 2.4.41, hosted the project, while PHP version 7.2 was instrumental in developing the logical functions of the website. PhpMyAdmin version 4.9.2 was employed for database management, while Laravel version 5.8 took charge of the backend. AdminLTE provided the frontend of the backend, delivering an efficient user interface. Bootstrap version 4 maintained a flexible frontend design, while JavaScript ensured interactivity on the website. HTML5 and CSS3 further enhanced the user experience. Flask facilitated data exchange between Laravel and the machine learning models, while Scikit-learn (Sklearn) proved indispensable for machine learning model development. Vue.js was employed to enhance user interaction with the website, and Visual Studio Code served as the integrated development environment for the project.
 
-For comprehensive details regarding this project, I recommend reviewing the report titled "Landslide Prediction System.pdf" This document should provide an in-depth overview and analysis of the project's specifics and findings.
+For comprehensive details regarding this project, I recommend reviewing the report titled ***Landslide Prediction System.pdf*** This document should provide an in-depth overview and analysis of the project's specifics and findings.
 
 The project in action:
 ![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture2.png)
