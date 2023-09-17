@@ -25,4 +25,18 @@ The project utilized a variety of tools and technologies to achieve its objectiv
 For comprehensive details regarding this project, I recommend reviewing the report titled "Landslide Prediction System.pdf" This document should provide an in-depth overview and analysis of the project's specifics and findings.
 
 The project in action:
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture2.png)
+
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture3.png)
+
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture4.png)
+
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture5.png)
+
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture6.png)
+
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture7.png)
+
+![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture8.png)
+
 
