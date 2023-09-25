@@ -28,7 +28,7 @@ The work on this project was summarized and published in two articles:
 
 1- [Hyperparameters optimisation of ensemble classifiers and its application for landslide hazards classification](https://www.inderscienceonline.com/doi/abs/10.1504/IJMIC.2022.124724).
 
-2- [Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring](https://dl.acm.org/doi/abs/10.1145/3438872.3439103).
+2- [Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring](https://dl.acm.org/doi/abs/10.1145/3438872.3439103).   
 
 The project in action:
 ![alt text](https://github.com/hamzahalneshmi/Landslide-Prediction-System/blob/main/pictures/Picture2.png)
